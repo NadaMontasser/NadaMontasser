@@ -1,6 +1,6 @@
  Hi there , I'm Nada <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30" />
  
- I am a Junior data anlayst, interested in Data Science, Machine Learning, and analyzing and manipulation of data. Inspiring in preprocessing of the data and getting insights to help business to identify trends and patterns.
+Junior Data Scientist familiar with gathering, cleaning, and organizing data. Advanced understanding of machine learning, deep learning, NLP, and computer vision. Highly organized, motivated, and diligent with engineering master’s degree in computer science.
 
 
 # 💫About Me:
