@@ -1,6 +1,14 @@
- Hi there , I'm Nada <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30" />
+ <p align="center">
+<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+ <p/>
+<h1 align="center"> Hi! I'm Nada <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
  
-Junior Data Scientist familiar with gathering, cleaning, and organizing data. Advanced understanding of machine learning, deep learning, NLP, and computer vision. Highly organized, motivated, and diligent with engineering master’s degree in computer science.
+ 
+ 
+Junior Data Scientist familiar with gathering, cleaning, and organizing data. Advanced understanding of machine 
+learning, deep learning, NLP, and computer vision. Highly organized, motivated, and diligent with engineering 
+master’s degree in computer science.
+
 
 
 # 💫About Me:
@@ -29,7 +37,6 @@ Junior Data Scientist familiar with gathering, cleaning, and organizing data. Ad
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title="Collab" alt="Collab" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="IntelliJ" **alt="IntelliJ" width="40" height="40"/>
  
 </div>
@@ -37,10 +44,11 @@ Junior Data Scientist familiar with gathering, cleaning, and organizing data. Ad
  
  
  
- # :hammer_and_wrench: Enviroments :
+ # 👨‍💻 Enviroments :
  
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" title="Windows" **alt="Windows" width="40" height="40"/>
 </div>
+ 
