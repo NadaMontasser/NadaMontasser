@@ -14,9 +14,10 @@ master’s degree in computer science.
 # 💫About Me:
 🔭 I’m currently master's degree student at university of Ottawa in Data Scince and AI 
 
-👀 I’m interested in all the upcoming technologies: Data Science, Deep Learning, NLP & Machine Learning
+👀 I’m interested in all the upcoming technologies: **Big Data, Data Science, Deep Learning, NLP & Machine Learning**
 
-🌱 I’m currently working on : Nothing
+🔭 I’m currently working on:
+	 - Master's graduation project from a university Ottawa using NLP and clustering.
 
 👯 I’m open to collaborate with anyone
 
@@ -34,7 +35,8 @@ master’s degree in computer science.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/64px-R_logo.svg.png" title="R" alt="R" width="40" height="40"
   height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" title="Hadoop" alt="Hadoop" width="40"/>&nbsp; 
-  <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" title="Spark" alt="Spark" width="40"/>&nbsp; 
+  <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" title="Spark" alt="Spark" width="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" title="Scala" alt="Scala" width="20"/>&nbsp; 
   <img src="https://github.com/NadaMontasser/Nada/blob/main/icons8-anaconda.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" title="IBM Cloud"  alt="IBM Cloud" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
