@@ -12,7 +12,9 @@ master’s degree in computer science.
 
 
 # 💫About Me:
-🔭 I’m currently master's degree student at university of uOttawa in Data Scince and AI 
+🔭 I’m currently master's degree student at university of Ottawa in Data Scince and AI 
+
+👀 I’m interested in all the upcoming technologies: Data Science, Deep Learning, NLP & Machine Learning
 
 🌱 I’m currently working on : Nothing
 
