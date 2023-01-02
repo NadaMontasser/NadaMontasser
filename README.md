@@ -33,6 +33,7 @@ master’s degree in computer science.
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/64px-R_logo.svg.png" title="R" alt="R" width="40" height="40"
   height="40"/>&nbsp;
+ <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" title="Hadoop" alt="Hadoop" width="40"/>&nbsp; 
   <img src="https://github.com/NadaMontasser/Nada/blob/main/icons8-anaconda.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" title="IBM Cloud"  alt="IBM Cloud" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
