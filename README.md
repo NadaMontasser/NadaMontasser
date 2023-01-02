@@ -1,5 +1,5 @@
  <p align="center">
-<img alt="GIF" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg?raw=true" height="280" />
+<img alt="GIF" src="https://user-images.githubusercontent.com/30169240/120820939-9f085880-c572-11eb-8e12-e8dd34cffe5d.png?raw=true" height="280" />
  <p/>
 <h1 align="center"> Hi! I'm Nada <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
  
