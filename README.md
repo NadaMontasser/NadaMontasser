@@ -17,7 +17,7 @@ master’s degree in computer science.
 👀 I’m interested in all the upcoming technologies: **Big Data, Data Science, Deep Learning, NLP & Machine Learning**
 
 🔭 I’m currently working on:
-	 - Master's graduation project from a university Ottawa using NLP and clustering.
+	 Master's graduation project from a university Ottawa using NLP and clustering.
 
 👯 I’m open to collaborate with anyone
 
