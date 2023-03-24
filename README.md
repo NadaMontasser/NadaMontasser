@@ -34,7 +34,8 @@ master’s degree in computer science.
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/64px-R_logo.svg.png" title="R" alt="R" width="40" height="40"
   height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" title="Hadoop" alt="Hadoop" width="40"/>&nbsp; 
+  <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" title="Hadoop" alt="Hadoop" width="40"/>&nbsp;
+  <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" title="Docker" alt="Docker" width="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" title="Spark" alt="Spark" width="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" title="Scala" alt="Scala" width="20"/>&nbsp; 
   <img src="https://github.com/NadaMontasser/Nada/blob/main/icons8-anaconda.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
